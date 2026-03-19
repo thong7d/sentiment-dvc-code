@@ -1,0 +1,4 @@
+[core]
+    remote = dagshub
+['remote "dagshub"']
+    url = https://dagshub.com/thongpham796/sentiment-dvc-data.git
